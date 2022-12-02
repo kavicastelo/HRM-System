@@ -1,0 +1,16 @@
+001	kavindu kokila	kkavindu221@gmail.com	kamburupitiya hena, ransegoda south	2000/11/01	0773431660	HR Deparment	HR_Manager	15:11:14   11/0
+
+002	test 1	test1@gmail.com	test1, test rd, test.	1999/10/04	0770000001	HR Deparment	HR_Assistant	15:13:39   11/0
+
+005	sample 1	sample1@gmail.com	sample1, street, ..	1990/03/07	0712345678	Marketing department	Manager	15:18:40   11/0
+
+006	sample 2	sample2@gmail.com	sample2, street, ..	1985/10/02	0712345678	Marketing department	Sales manager	15:19:33   11/0
+
+007	test 5	sample5@gmail.com	sdfghjkl	1994/07/03	077000000	HR Department	Sample
+
+010	test 1	sample1@gmail.com	sdfghj	1990/11/05	077000000	HR Deparment	HR_Manager	10:59:17   21/0
+
+011	test 2	sample2@gmail.com	sdfghjk	1995/05/06	071000000	HR Department	HR_Assistant	11:0:37   21/0
+
+012	test 3	sample3@gmail.com	dfghjk	1999/03/05	074000000	Sales Department	Sample	11:7:30   21/0
+

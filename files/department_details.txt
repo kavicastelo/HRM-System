@@ -1,0 +1,20 @@
+
+HR Department	
+Manager
+Assistant
+
+Marketing department	
+Sales
+Manager
+Reps
+
+
+sales department	
+feilders
+sales manager
+reps
+
+Sample Department	
+sample3
+sample1
+sample2
